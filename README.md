@@ -13,4 +13,4 @@ Users required to create python environment in their host computers. Python3 is 
 2. **Use docker container**: Install docker software (and also, create user profile) and make sure it is running in the host environment. Then, run make-docker.sh(see below) and from browser <localhost:port> to use the code.
  <br> *"./make-docker.sh <web-app-name> <port-numnber>"
 <br> Example: **"./make-docker.sh automate_task 5500"**
-  <br> From browser: <**localhost or https://ip-address**:*5500*>
+  <br> From browser: <localhost or https://ip-address:5500>
