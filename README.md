@@ -8,7 +8,7 @@ There are two ways users can use this code.
 
 1. **With Python enviroment**: Just run main_app.py *"python3 main_app.py"* and then from browser <localhost/ip-address:port> to use the code. 
 Users required to create python environment in their host computers. Python3 is recommended since this code was developed in python3. 
-<br>Install required packages: *"pip3 install <package-name>"
+<br>Install required packages: *"pip3 install package-name"
 <br>  packages: **pandas, xlrd, flask**
  
 2. **Use docker container**: Install docker software (and also, create user profile) and make sure it is running in the host environment. Then, run make-docker.sh(see below) and from browser <localhost:port> to use the code.
