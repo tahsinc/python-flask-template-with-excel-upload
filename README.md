@@ -1,4 +1,4 @@
-# Automate-with-python-and-excel
+# python-flask-template-with-excel-upload
 
 This is a template source code for uploading an excel (.xlsx) file with required data as input to automate task using python as a web application. This code can be further extended for specific task. 
 
